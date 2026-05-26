@@ -1,15 +1,15 @@
 {
-    "name":"RoundKitty's test Listing",
-    "id":"com.roundkitty.test-listing",
-    "url":"https://u-kotovsky.github.io/vcc-test/index.json",
+    "name":"RoundKitty's Listing",
+    "id":"com.roundkitty.vpm-listing",
+    "url":"https://u-kotovsky.github.io/vpm-listing/index.json",
     "author":{
         "email":"example@example.com",
         "name":"u-Kotovsky",
-        "url":"https://github.com/u-Kotovsky"
+        "url":"https://github.com/u-kotovsky"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/u-Kotovsky/vcc-test",
+        "url":"http://github.com/u-Kotovsky/vpm-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
